@@ -1,0 +1,27 @@
+{
+    "image1": {
+        "data": "hwQPABAAAAAAAAAAAAAAAAAAAAAAAIAIAAAAAAAAiIgAAAAAAICICAAAAAAAgIgIAAAAAACAiAgAAAAAAICICAAAAAAAgIgIAAAAAACAiIgAAAAAAACICAAAAAAAAIAIAAAAAAAAiIgAAAAAAN2IiAAAAAAAAIAIAAAAAAAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Player_1"
+    },
+    "image3": {
+        "data": "hwQBAAQAAAAfHwAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Finish Line"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAFAFAAAAAAAAVVUAAAAAAFBVBQAAAAAAUFUFAAAAAABQVQUAAAAAAFBVBQAAAAAAUFUFAAAAAABQVVUAAAAAAABVBQAAAAAAAFAFAAAAAAAAVVUAAAAAAN1VVQAAAAAAAFAFAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Player_3"
+    },
+    "image4": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAACACAAAAAAAAIiIAAAAAACAiAgAAAAAAICICAAAAAAAgIgIAAAAAACAiAgAAAAAAICICAAAAAAAgIiIAAAAAAAAiAgAAAAAAACACAAAAAAAAIiIAAAAAAN0iIgAAAAAAACACAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Player_2"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
